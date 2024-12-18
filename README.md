@@ -36,6 +36,3 @@ Este sistema de gestión de pedidos para **Interdrogas** integra de manera efici
 
 ---
 
-![fotoInterdrogas](https://github.com/user-attachments/assets/b2256ea8-2a4b-4196-a5de-5b8257d16ce4)
-![image](https://github.com/user-attachments/assets/5ce3ff24-5b93-4acb-9ef2-33eb1e9d128a)
-![image](https://github.com/user-attachments/assets/6cd8e2ac-9720-4017-ab83-4cafd4e8537c)
